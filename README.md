@@ -364,8 +364,16 @@ The source code in ```/server/methods/getPasswordPolicy.js``` does not use sanit
 
 - **Regularly Update to the Latest Secure Version:** Frequently update security patches related to vulnerabilities.
 
-## Conclusion
+## 3. Conclusion
 Through the process of carrying out the project, group members have gained fundamental knowledge about NoSQL databases and NoSQL Injection attacks. Consequently, they have identified that vulnerabilities still exist in projects, primarily due to improper handling of input and the use of outdated versions of open-source projects.
+
+## 4. Referrences
+- https://portswigger.net/web-security/nosql-injection
+- https://cve.mitre.org/cve/search_cve_list.html
+- https://hackerone.com/
+- https://www.root-me.org/
+- https://www.geeksforgeeks.org/introduction-to-nosql/
+
 
 
 
