@@ -134,7 +134,7 @@ Additionally, the application utilizes the json_decode function, which can intro
 
 3. Successfully log in without needing the actual password.
 
-![image[(https://github.com/grapitycreation/NoSQL_Injection_Project/blob/main/images/image007.png)
+![image](https://github.com/grapitycreation/NoSQL_Injection_Project/blob/main/images/image007.png)
 
 #### 2.2.4 Impact Level
 
