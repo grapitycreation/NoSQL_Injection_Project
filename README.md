@@ -258,7 +258,7 @@ The server will return the corresponding 2FA code.
 
 ![image](https://github.com/grapitycreation/NoSQL_Injection_Project/blob/main/images/image016.png)
 
-![image])(https://github.com/grapitycreation/NoSQL_Injection_Project/blob/main/images/image017.png)
+![image](https://github.com/grapitycreation/NoSQL_Injection_Project/blob/main/images/image017.png)
 
 ![image](https://github.com/grapitycreation/NoSQL_Injection_Project/blob/main/images/image018.png)
 
